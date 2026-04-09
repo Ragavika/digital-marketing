@@ -27,3 +27,9 @@ Bash
 git clone https://github.com/Ragavika/digital-marketing.git
 Open the project:
 Simply double-click index.html to view it in your preferred browser.
+
+Here are the screenshots of the webpage
+
+![screenshot of landing page](Screenshot 2026-04-09 185922.png)
+![screenshot of landing page](Screenshot 2026-04-09 185944.png)
+
