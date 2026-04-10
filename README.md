@@ -23,10 +23,8 @@ Plaintext
 ├── index.html   # Main HTML structure and embedded CSS
 └── README.md    # Project documentation
 
-Bash
-git clone https://github.com/Ragavika/digital-marketing.git
 Open the project:
-Simply double-click index.html to view it in your preferred browser.
+https://digital-marketing-tan-alpha.vercel.app/
 
 Here are the screenshots of the webpage
 <img width="1909" height="1035" alt="Image" src="https://github.com/user-attachments/assets/62f8a8a7-7ef8-4f3a-8ca9-b90c6f13a4ad" />
