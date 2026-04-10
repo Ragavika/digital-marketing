@@ -29,7 +29,5 @@ Open the project:
 Simply double-click index.html to view it in your preferred browser.
 
 Here are the screenshots of the webpage
-
-![screenshot of landing page](Screenshot 2026-04-09 185922.png)
-![screenshot of landing page](Screenshot 2026-04-09 185944.png)
-
+<img width="1909" height="1035" alt="Image" src="https://github.com/user-attachments/assets/62f8a8a7-7ef8-4f3a-8ca9-b90c6f13a4ad" />
+<img width="1919" height="1032" alt="Image" src="https://github.com/user-attachments/assets/f38c8f52-65a2-4683-b0c3-21432afffb7e" />
